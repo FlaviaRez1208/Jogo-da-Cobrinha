@@ -1,2 +1,2 @@
 # Jogo-da-Cobrinha
-Jogo da Cobrinha , ealizado com HTML, Js e Css
+Jogo da Cobrinha ,realizado com HTML, Js e Css
